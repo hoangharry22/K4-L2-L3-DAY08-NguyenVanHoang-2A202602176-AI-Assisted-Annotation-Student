@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,2 xe đi sát nhau ở gần cuối làn đường bên phải (khoảng góc trái trên của ảnh),added,Model chỉ detect 1 box nhưng đủ rõ ràng để thấy là 2 xe.
+2,frame_0107.jpg,Xe bị cắt ở phía dưới ảnh,added,Xe bị cắt bởi mép ảnh nhưng vẫn còn nhìn thấy một phần xe.
+3,frame_0392.jpg,Xe buýt ở khoảng giữa ảnh,deleted,Model detect nhầm xe buýt là car.
